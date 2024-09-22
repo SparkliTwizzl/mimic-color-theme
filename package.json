@@ -3,6 +3,7 @@
   "displayName": "Mimic color theme for Visual Studio Code",
   "description": "A color theme with no clear identity. Mimics elements of other color themes with distinct colors.",
   "version": "0.0.1",
+  "publisher": "SparkliTwizzl",
   "repository": "https://github.com/sparklitwizzl/mimic-color-theme",
   "engines": {
     "vscode": "^1.93.0"
